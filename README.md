@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aballolli
 - 👀 I’m interested in movies..
 - 🌱 I’m currently learning cloud computing..
-- 💞️ I’m looking to collaborate on learning cloud computing...
+- 💞️ I’m looking to collaborate on contributing to open source...
 - 📫 How to reach me via my email
 
 <!---
